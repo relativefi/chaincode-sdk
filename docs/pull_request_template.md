@@ -1,17 +1,36 @@
-**PR template, before submitting the PR, please make sure:**
+### PR template, before submitting the PR, please make sure:
+
+- You provide a brief description of the changes made / 
+describe the new feature or enhancement being introduced /
+describe the bug or issue being addressed.
 
 - Your code builds clean without any errors or warnings.
 
 - No console logs and lint issues.
 
-- A reference to a related issue in your repository.
-
-- A description of the changes proposed in the pull request.
-
-- A description or summary of a new feature if any.
+- Provide a detailed step-by-step guide to reproduce the bug (if applicable)
 
 - Add reference images or urls
 
 - @mentions of the person or team responsible for reviewing the proposed changes.
 
 - In the "Commit message" field, type a short, meaningful commit message that describes the change you made to the file. 
+
+**Screenshots (optional)**
+- If you made any UI changes, what are the before and afters?
+
+
+### Related Issue
+
+Closes #IssueNumber
+
+
+### Checklist
+
+- [ ] I have tested these changes locally
+- [ ] I have reviewed the code changes
+- [ ] I have updated the documentation (if applicable)
+- [ ] I have added unit tests (if applicable)
+- [ ] I have run the linter and fixed any issues
+- [ ] I have assigned reviewers to this pull request
+
