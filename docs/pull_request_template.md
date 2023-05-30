@@ -1,12 +1,12 @@
 ### PR template, before submitting the PR, please make sure:
 
-- You provide a brief description of the changes made / 
-describe the new feature or enhancement being introduced /
-describe the bug or issue being addressed.
+- Provide a brief description of the changes made / 
+  describe the new feature or enhancement being introduced /
+  describe the bug or issue being addressed.
 
-- Your code builds clean without any errors or warnings.
+- Code compiles without any errors or warnings, resulting in a clean build.
 
-- No console logs and lint issues.
+- No console logs, unwanted commented code and lint issues.
 
 - Provide a detailed step-by-step guide to reproduce the bug (if applicable)
 
