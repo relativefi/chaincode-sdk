@@ -1,4 +1,4 @@
-### PR template, before submitting the PR, please make sure:
+### Before submitting the pull request (PR), please ensure the following:
 
 - Provide a brief description of the changes made / 
   describe the new feature or enhancement being introduced /
@@ -14,7 +14,7 @@
 
 - @mentions of the person or team responsible for reviewing the proposed changes.
 
-- In the "Commit message" field, type a short, meaningful commit message that describes the change you made to the file. 
+- In the "Commit message" field, type a short, meaningful commit message that describes the change you made. 
 
 **Screenshots (optional)**
 
