@@ -1,4 +1,4 @@
-### PR template, before submitting the PR, please make sure:
+### Before submitting the pull request (PR), please ensure the following:
 
 - Provide a brief description of the changes made / 
   describe the new feature or enhancement being introduced /
@@ -14,10 +14,13 @@
 
 - @mentions of the person or team responsible for reviewing the proposed changes.
 
-- In the "Commit message" field, type a short, meaningful commit message that describes the change you made to the file. 
+- In the "Commit message" field, type a short, meaningful commit message that describes the change you made. 
 
 **Screenshots (optional)**
+
 - If you made any UI changes, what are the before and afters?
+
+- Add screenshots/videos of the features/changes
 
 
 ### Related Issue
@@ -27,10 +30,10 @@ Closes #IssueNumber
 
 ### Checklist
 
+- [ ] I have added label which describes ticket type (feature, bug, chore etc)
 - [ ] I have tested these changes locally
 - [ ] I have reviewed the code changes
 - [ ] I have updated the documentation (if applicable)
-- [ ] I have added unit tests (if applicable)
-- [ ] I have run the linter and fixed any issues
 - [ ] I have assigned reviewers to this pull request
+
 
