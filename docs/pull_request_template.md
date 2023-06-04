@@ -1,4 +1,4 @@
-### PR template, before submitting the PR (from master branch), please make sure:
+### PR template, before submitting the PR, please make sure:
 
 - Provide a brief description of the changes made / 
   describe the new feature or enhancement being introduced /
